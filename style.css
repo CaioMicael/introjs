@@ -1,0 +1,19 @@
+li {
+    list-style-type: none;
+    margin: 5px;
+}
+
+#lista {
+    border: 5px solid black;  
+    margin-left: 43%;  
+    margin-right: 43%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
